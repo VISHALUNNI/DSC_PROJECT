@@ -24,7 +24,7 @@ h1{
 #hy{
     font-size: medium;
     color: antiquewhite;
-    width: 30%;
+    width: auto;
 }
 .python{
     float: right;
@@ -32,7 +32,7 @@ h1{
 }
 #p{
     color: antiquewhite;
-    width: 66%;
+    width: auto;
     text-align: right;
     font-size: large;
     
@@ -40,8 +40,8 @@ h1{
 #ph{
     font-size:medium;
     color: azure;
-    width: 30%;
-    float: right;
+    width: auto;
+    float: left;
 }
 .Java{
     padding-top: 105px;
@@ -60,25 +60,25 @@ h1{
 #m{
     font-size: medium;
     color: antiquewhite;
-    width: 30%;
-    display: flex;
+    width: auto;
+    
     
     
 }
 
 .HT{
-    float: right;
+    float: left;
     margin: 10px;
 }
 #L{
     font-size: medium;
     color: azure;
-    width: 30%;
-    float: right;
+    width: auto;
+    float: left;
 }
 #M{
     color: antiquewhite;
-    width: 66%;
-    text-align: right;
+    width: auto;
+    text-align: left;
     font-size: large;
 }
