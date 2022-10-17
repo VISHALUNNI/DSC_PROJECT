@@ -27,21 +27,20 @@ h1{
     width: auto;
 }
 .python{
-    float: right;
+    float: left;
     margin: 10px;
 }
 #p{
     color: antiquewhite;
     width: auto;
-    text-align: right;
+    text-align: left;
     font-size: large;
     
 }
 #ph{
-    font-size:medium;
+    font-size: medium;
     color: azure;
     width: auto;
-    float: left;
 }
 .Java{
     padding-top: 105px;
@@ -74,7 +73,6 @@ h1{
     font-size: medium;
     color: azure;
     width: auto;
-    float: left;
 }
 #M{
     color: antiquewhite;
