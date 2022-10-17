@@ -1,0 +1,84 @@
+html{
+    background-image: url(https://images.hdqwalls.com/download/windows-11-dark-4k-r6-1920x1080.jpg);
+    height: 200px;
+}
+h1{
+   color: aliceblue; 
+   text-align: center;
+   text-rendering: geometricPrecision;
+   text-decoration:underline crimson;
+   font-size: xx-large
+}
+.JavaScript{
+    float: left;
+    margin: 10px;
+}
+#hey{
+    color: aliceblue;
+    text-align: left;
+    font-size: large;
+}
+.js{
+    border: 100px;
+}
+#hy{
+    font-size: medium;
+    color: antiquewhite;
+    width: 30%;
+}
+.python{
+    float: right;
+    margin: 10px;
+}
+#p{
+    color: antiquewhite;
+    width: 66%;
+    text-align: right;
+    font-size: large;
+    
+}
+#ph{
+    font-size:medium;
+    color: azure;
+    width: 30%;
+    float: right;
+}
+.Java{
+    padding-top: 105px;
+}
+.jvm{
+    float: left;
+    margin: 10px;
+}
+   
+
+#j{
+    color: aliceblue;
+    text-align: left;
+    font-size: large;
+}
+#m{
+    font-size: medium;
+    color: antiquewhite;
+    width: 30%;
+    display: flex;
+    
+    
+}
+
+.HT{
+    float: right;
+    margin: 10px;
+}
+#L{
+    font-size: medium;
+    color: azure;
+    width: 30%;
+    float: right;
+}
+#M{
+    color: antiquewhite;
+    width: 66%;
+    text-align: right;
+    font-size: large;
+}

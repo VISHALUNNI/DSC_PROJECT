@@ -1,0 +1,76 @@
+.main{
+    min-height: 85vh;
+}
+.heading{
+    text-align: center;
+    color: cornsilk
+}
+.details{
+    text-align: center;
+    font-size: x-large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    color: wheat;
+    
+}
+html{
+    background-image: url(https://wallpaperaccess.com/full/1779916.jpg);
+    background-repeat: no-repeat;
+    position: fixed;
+    min-width: 100vw;
+    min-height: 100vh;
+    height: 100%;
+}
+.TechStack{
+    text-align: center;
+    
+}
+.ts{
+    color: lightblue;
+}
+.contact{
+    color: aliceblue;
+    text-align: center;
+}
+h2{
+    color:azure;
+    text-align: center;
+}
+.fa-instagram{
+    width: 50%;
+}
+#icon{
+    border-radius: 7px;
+    margin-right: 10px;
+}
+#Linkedin{
+    margin-left: 10px;
+}
+#github{
+    margin-left:5px;
+    background-color: aliceblue;
+}
+footer{
+    display: flexbox;
+    flex-direction: column;
+    min-height: 100vh;
+    align-items: center;
+    bottom: 0;
+
+    
+}
+.copyright p{
+    color: blanchedalmond;
+    text-align: center;
+    
+}
+button {
+    background-color: crimson;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
