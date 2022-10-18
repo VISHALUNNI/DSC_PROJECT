@@ -1,9 +1,7 @@
 .main{
-    padding:20px 0;
+    min-height: 85vh;
     width:85%;
     margin:auto;
-    min-height:85vh;
-    align-items : center;
 }
 html{
     background-image: url(https://images.hdqwalls.com/download/windows-11-dark-4k-r6-1920x1080.jpg);
@@ -84,7 +82,7 @@ h1{
     font-size: large;
 }
 
-.homebutton{
+button{
     background-color: crimson;
     border-radius: 12px;
     color: white;
@@ -94,4 +92,8 @@ h1{
     display: inline-block;
     font-size: 16px;
     cursor:pointer;
-  }
+}
+.homepagebutton{
+    text-align: center;
+    cursor:pointer;
+}
