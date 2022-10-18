@@ -3,6 +3,7 @@
     width:85%;
     margin:auto;
     min-height:85vh;
+    align-items : center;
 }
 html{
     background-image: url(https://images.hdqwalls.com/download/windows-11-dark-4k-r6-1920x1080.jpg);
