@@ -58,7 +58,7 @@ footer{
     align-items: center;
     bottom: 0;
 }
-.contact{
+.contact a{
     text-decoration:none;
 }
 .copyright p{
@@ -68,7 +68,7 @@ footer{
 }
 button {
     background-color: crimson;
-    border: none;
+    border-radius: 12px;
     color: white;
     padding: 15px 32px;
     text-align: center;
