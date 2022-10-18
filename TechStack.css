@@ -84,7 +84,7 @@ h1{
     font-size: large;
 }
 
-homebutton{
+.homebutton{
     background-color: crimson;
     border-radius: 12px;
     color: white;
