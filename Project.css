@@ -1,5 +1,7 @@
 .main{
     min-height: 85vh;
+    width:85%;
+    margin:auto;
 }
 .heading{
     text-align: center;
